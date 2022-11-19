@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Datos\\Datos.csproj": {}
+    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Datos\\Datos.csproj": {
+    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\Roron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj"
+              "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj",
+        "projectPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\Roron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Tarea\\Ejercicio5\\Modelos\\obj\\",
+        "outputPath": "C:\\Users\\Roron\\Documents\\CLASES\\LENGUAJE III\\Ejercicio-5\\Tarea\\Ejercicio5\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roron\\AppData\\Roaming\\NuGet\\NuGet.Config",

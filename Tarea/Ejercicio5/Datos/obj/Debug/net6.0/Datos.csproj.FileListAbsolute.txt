@@ -1,0 +1,15 @@
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\bin\Debug\net6.0\Modelos.dll
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Roron\Documents\CLASES\LENGUAJE III\Ejercicio-5\Tarea\Ejercicio5\Datos\obj\Debug\net6.0\ref\Datos.dll
